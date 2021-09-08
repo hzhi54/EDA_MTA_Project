@@ -9,3 +9,14 @@ The data I will be using is the MTA turnstile data found in http://web.mta.info/
 
 ### Tools
 In order to retrieve and aggregate the data, I will be using SQLite and Python to query and cleaning data. Then I will use seaborne to create visualizations so that you will able to easily see the different trends. If any other thoughts that could happened during our research, we can use other tools like Tableau to create dashboards for this project.
+
+## MVP: Mininum Viable Product
+My MVP will have graphs of time series of the subway station flow during specific time of days. Having this type of graph, I can make analysis on where to put street teams on specific stations. Anther graph I've decide is to create bargraphs on population overall during the beginning of the year. Also bargraphs for seasonal population to see at what seasons are more effective to set the street team on different stations. This will be a great starts for the project.
+
+## Consideration
+Some considerations that are outside my analyst on the MTA turnstile's data is about the setting of each subway station. Even though we can find the populated subway stations, setting up the street team might take a lot of spaces while there are many people moving in and out of the subway stations. Another consideration could be how to persuade people to get interested with the WYWT organization so people want to learn more about. Then we will need a way to keep track of each person's information who want to join the gala.
+
+
+```python
+
+```
