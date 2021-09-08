@@ -1,7 +1,7 @@
 # Proposal
 
 ## Introduction
-Our goal is to tell the WYWT orgainization about where they can set up street teams near MTA subway stations so that they can get as much people to join their gala every summer. To do this, I'm going to do research on the peak time with the most people entering and exiting of the subway stations. This way the organization will know about where they can meet the most people so that the chances of getting someone to know about the organization are a lot higher.
+Our goal is to tell the WTWY orgainization about where they can set up street teams near MTA subway stations so that they can get as much people to join their gala every summer. To do this, I'm going to do research on the peak time with the most people entering and exiting of the subway stations. This way the organization will know about where they can meet the most people so that the chances of getting someone to know about the organization are a lot higher.
 
 ## Preperation
 ### Data
@@ -14,7 +14,7 @@ In order to retrieve and aggregate the data, I will be using SQLite and Python t
 My MVP will have graphs of time series of the subway station flow during specific time of days. Having this type of graph, I can make analysis on where to put street teams on specific stations. Anther graph I've decide is to create bargraphs on population overall during the beginning of the year. Also bargraphs for seasonal population to see at what seasons are more effective to set the street team on different stations. This will be a great starts for the project.
 
 ## Consideration
-Some considerations that are outside my analyst on the MTA turnstile's data is about the setting of each subway station. Even though we can find the populated subway stations, setting up the street team might take a lot of spaces while there are many people moving in and out of the subway stations. Another consideration could be how to persuade people to get interested with the WYWT organization so people want to learn more about. Then we will need a way to keep track of each person's information who want to join the gala.
+Some considerations that are outside my analyst on the MTA turnstile's data is about the setting of each subway station. Even though we can find the populated subway stations, setting up the street team might take a lot of spaces while there are many people moving in and out of the subway stations. Another consideration could be how to persuade people to get interested with the WTWY organization so people want to learn more about. Then we will need a way to keep track of each person's information who want to join the gala.
 
 
 ```python
