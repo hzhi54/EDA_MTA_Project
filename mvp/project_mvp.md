@@ -9,10 +9,10 @@ Lets look at what we have analyze:
 
 MTA top ten populated stations:
 
-![station_total.png](attachment:station_total.png)
+![alt text](https://github.com/hzhi54/EDA_MTA_Project/blob/main/visuals/station_total.png)
 
 MTA population during the weekdays:
 
-![station_by_day.png](attachment:station_by_day.png)
+![alt text](https://github.com/hzhi54/EDA_MTA_Project/blob/main/visuals/station_by_day.png)
 
 So far, we notice that we can use the top 5 stations to set street teams because they are the most populated area in the MTA subway stations. Also, we can focus on setting the team during the weekdays instead of the weekends because there are not much during the weekends. So working on setting up street teams on the top 5 stations during the weekdays is the best option for now. 
